@@ -1,0 +1,34 @@
+# Core Framework
+streamlit==1.31.0
+pathway==0.15.1
+
+# LLM & Embeddings
+groq==0.9.0
+sentence-transformers==2.3.1
+torch>=2.0.0  # Required by sentence-transformers
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.3
+
+# Financial Data
+yfinance==0.2.36
+
+# Document Processing
+PyPDF2==3.0.1
+python-docx==1.1.0
+
+# Web Scraping
+beautifulsoup4==4.12.3
+requests==2.31.0
+lxml==5.1.0
+
+# Utilities
+python-dotenv==1.0.1
+
+openai
+
+feedparser==6.0.10
+urllib3==2.0.0
+
+tavily-python
