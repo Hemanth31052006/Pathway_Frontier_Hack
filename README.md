@@ -183,7 +183,6 @@ graph TB
 - **Python**: 3.9 or higher
 - **Operating System**: Windows, macOS, or Linux (Ubuntu)
 - **RAM**: Minimum 8GB (16GB recommended for Sentence Transformers)
-- **Storage**: ~2GB for models and dependencies
 
 ### Step 1: Clone Repository
 
@@ -751,12 +750,6 @@ We welcome contributions! Areas for improvement:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👥 Team
 
 - **Groq** - LLM inference platform
@@ -773,17 +766,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tavily** for verified news API
 - **Sentence Transformers** for quality embeddings
 - **NSE/BSE** for market data standards
-
----
-
-## 📞 Support
-
-**Issues**: https://github.com/yourusername/ai-investment-advisor/issues
-
-**Email**: support@yourdomain.com
-
-**Documentation**: https://docs.yourdomain.com
-
+  
 ---
 
 ## 🎯 Roadmap
@@ -793,28 +776,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ✅ Conversational interface
 - ✅ Real-time news (Tavily)
 - ✅ Semantic search (Pathway)
-
-### Phase 2 (Q2 2025)
-- 🔜 Real Yahoo Finance integration
-- 🔜 Technical indicators (RSI, MACD)
-- 🔜 Backtesting framework
-- 🔜 Mobile app
-
-### Phase 3 (Q3 2025)
-- 🔜 Options strategies
-- 🔜 Portfolio tracking
-- 🔜 Alerts & notifications
-- 🔜 Social features
-
----
-
-## 📚 Learn More
-
-- [Pathway Documentation](https://pathway.com/docs)
-- [Groq API Guide](https://console.groq.com/docs)
-- [Tavily API Docs](https://docs.tavily.com)
-- [Streamlit Tutorials](https://docs.streamlit.io)
-
+- 
 ---
 
 ## ⚡ Quick Start Cheatsheet
